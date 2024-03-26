@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="https://primeshop.vercel.app/github.png"/>
+<img src="https://primeshop.vercel.app/newgithub.jpg"/>
 </p>
 
 # <p align="center">Hi, I'm Ubaid Patel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></p>
@@ -9,8 +9,8 @@
 <tr>
   <td valign="center">
     👩‍💻 I am a 20 years old Web-Developer from India 🏡.<br><br>
-    🌱 I am currently learning TypeScript & Java.<br><br>
-    🎯 My Goal is to Contribute to as many open-source projects as possible.<br><br>
+    🌱 I am currently learning JavaScript & MYSQL<br><br>
+    🎯 My Goal is to code advanced Web-Apps<br><br>
     ✨ I love to create useful program that makes life easier.<br><br>
 <td >
    <a href="https://app.daily.dev/ubaidpatel"><img src="https://api.daily.dev/devcards/e63d7cc2be0f4c40b418b535e6867cca.png?r=hc1" width="400" alt="Ubaid Patel's Dev Card"/></a>
