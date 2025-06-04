@@ -13,7 +13,7 @@
     🎯 My Goal is to code advanced Web-Apps<br><br>
     ✨ I love to create useful program that makes life easier.<br><br>
 <td >
-   <a href="https://app.daily.dev/ubaidpatel"><img src="https://api.daily.dev/devcards/e63d7cc2be0f4c40b418b535e6867cca.png?r=hc1" width="400" alt="Ubaid Patel's Dev Card"/></a>
+  <a href="https://app.daily.dev/ubaidpatel"><img src="https://api.daily.dev/devcards/v2/LI3rdAa5IS6ia3NdQZCaG.png?type=default&r=egb" width="356" alt="Ubaid Patel's Dev Card"/></a>
   </td>
 </tr>
 </table>
