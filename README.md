@@ -1,64 +1,87 @@
 # Ubaid Patel
 
-Full-Stack Engineer \| Embedded Systems \| Machine Learning
+Full-Stack Engineer • Embedded Systems • Machine Learning
 
-------------------------------------------------------------------------
+---
 
-## Focus
+## Engineering Focus
 
-Designing end-to-end engineering systems that connect:
+I design and build end-to-end systems that connect:
 
-Hardware → Communication → Backend Infrastructure → Data Processing →
-User Interface
+Hardware → Communication → Backend Infrastructure → Data Processing → User Interface
 
-Architecture clarity. Performance. Practical deployment.
+My work centers on architectural clarity, system reliability, and practical deployment.
 
-------------------------------------------------------------------------
+---
 
-## Core Expertise
+## Core Competence
 
-**Languages**\
-JavaScript • TypeScript • Python • Java • C++ • SQL
+**Languages**  
+JavaScript • TypeScript • Python • Java • C++ • SQL  
 
-**Backend Engineering**\
-Node.js • Express • FastAPI\
-REST Architecture • Authentication • Modular Design • Real-Time Systems
+**Backend Engineering**  
+Node.js • Express • FastAPI  
+REST Architecture • Authentication • Modular Design • Real-Time Systems  
 
-**Frontend Engineering**\
-React • Next.js • API Integration • Structured Component Design
+**Frontend Engineering**  
+React • Next.js • Structured Component Design • API Integration  
 
-**Databases**\
-MongoDB • MySQL • Redis • Schema Optimization
+**Databases**  
+MongoDB • MySQL • Redis • Schema Optimization  
 
-**Embedded Systems**\
-Microcontroller Integration • Real-Time Logic • Communication Protocols
+**Embedded Systems**  
+Microcontroller Integration • Real-Time Logic • Communication Protocols  
 
-**Machine Learning**\
-Model Integration • Inference Pipelines • Applied ML Systems
+**Machine Learning**  
+Model Integration • Inference Pipelines • Applied ML Systems  
 
-------------------------------------------------------------------------
+---
 
 ## Selected Systems
 
-**Yield**\
-Autonomous IoT system integrating sensing, backend orchestration, and
-intelligent control logic.
+### Yield  
+Autonomous IoT agricultural system integrating distributed sensing, backend orchestration, and intelligent control logic.
 
-**GeoTrack**\
-Wireless tracking architecture combining embedded communication with
-backend processing.
+Designed with modular services, structured device communication handling, and prediction-assisted decision flow.
 
-**PrimeShop**\
-Structured full-stack commerce platform with secure APIs and
-database-driven operations.
+#### Architecture Overview
 
-------------------------------------------------------------------------
+```mermaid
+graph LR
+  Sensors --> MCU
+  MCU --> API
+  API --> DB
+  API --> Dashboard
+  API --> ML_Model
+```
 
-## Direction
+---
 
-Distributed Systems • Scalable Backend Design • Embedded Intelligence •
-ML Deployment
+### GeoTrack  
+LoRa-based vehicle tracking architecture combining embedded communication with structured backend processing and visualization layers.
 
-------------------------------------------------------------------------
+Emphasis on reliable device-to-server data flow and separation between networking, processing, and presentation layers.
+
+---
+
+### PrimeShop  
+Full-stack commerce platform built around secure REST APIs, database-optimized operations, and clean separation of business logic from UI layers.
+
+---
+
+## Engineering Direction
+
+Distributed Systems • Scalable Backend Design • Embedded Intelligence • ML Deployment Pipelines • Performance-Oriented Architecture
+
+---
+
+## Activity Snapshot
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ubaid-patel&show_icons=true&hide_border=true&theme=highcontrast" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaid-patel&hide_border=true&theme=highcontrast" />
+</p>
+
+---
 
 Engineering systems from silicon to scalable software.
