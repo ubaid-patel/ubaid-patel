@@ -1,44 +1,64 @@
-<p align='center'>
-<img src="https://primeshop.vercel.app/newgithub.jpg"/>
-</p>
+# Ubaid Patel
 
-# <p align="center">Hi, I'm Ubaid Patel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></p>
+Full-Stack Engineer \| Embedded Systems \| Machine Learning
 
-# About
-<table>
-<tr>
-  <td valign="center">
-    👩‍💻 I am a 20 years old Web-Developer from India 🏡.<br><br>
-    🌱 I am currently learning JavaScript & MYSQL<br><br>
-    🎯 My Goal is to code advanced Web-Apps<br><br>
-    ✨ I love to create useful program that makes life easier.<br><br>
-<td >
-  <a href="https://app.daily.dev/ubaidpatel"><img src="https://api.daily.dev/devcards/v2/LI3rdAa5IS6ia3NdQZCaG.png?type=default&r=xxf" width="356" alt="Ubaid Patel's Dev Card"/></a>
-  </td>
-</tr>
-</table>
-<!-- 
-![Gambhir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ubaid-patel&theme=react-dark)
---> 
-<!-- # Technologies ⚙  -->
+------------------------------------------------------------------------
 
+## Focus
 
-[![Ubaid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ubaid-patel&theme=react-dark)](https://github.com/ubaid-patel)
+Designing end-to-end engineering systems that connect:
 
-# Stack 
+Hardware → Communication → Backend Infrastructure → Data Processing →
+User Interface
 
-<p align='center'>
- <img src="https://skillicons.dev/icons?i=js,typescript,java,py,cpp,rust,php" />
-</p>
-<p align='center'>
- <img src="https://skillicons.dev/icons?i=react,nextjs,redux,redis,tailwind,threejs,graphql,nodejs,mongodb,django,firebase,jest" />
-</p>
+Architecture clarity. Performance. Practical deployment.
 
-# Stats
-<p align="center">
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubaid-patel&show_icons=true&theme=highcontrast&locale=en&layout=compact&hide_border=true" alt="#ubaid-patel" /> 
+------------------------------------------------------------------------
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ubaid-patel&show_icons=true&theme=highcontrast&locale=en&hide_border=true" alt="#ubaid-patel" />
+## Core Expertise
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaid-patel&theme=highcontrast&hide_border=true" alt="#ubaid-patel" />
-</p>
+**Languages**\
+JavaScript • TypeScript • Python • Java • C++ • SQL
+
+**Backend Engineering**\
+Node.js • Express • FastAPI\
+REST Architecture • Authentication • Modular Design • Real-Time Systems
+
+**Frontend Engineering**\
+React • Next.js • API Integration • Structured Component Design
+
+**Databases**\
+MongoDB • MySQL • Redis • Schema Optimization
+
+**Embedded Systems**\
+Microcontroller Integration • Real-Time Logic • Communication Protocols
+
+**Machine Learning**\
+Model Integration • Inference Pipelines • Applied ML Systems
+
+------------------------------------------------------------------------
+
+## Selected Systems
+
+**Yield**\
+Autonomous IoT system integrating sensing, backend orchestration, and
+intelligent control logic.
+
+**GeoTrack**\
+Wireless tracking architecture combining embedded communication with
+backend processing.
+
+**PrimeShop**\
+Structured full-stack commerce platform with secure APIs and
+database-driven operations.
+
+------------------------------------------------------------------------
+
+## Direction
+
+Distributed Systems • Scalable Backend Design • Embedded Intelligence •
+ML Deployment
+
+------------------------------------------------------------------------
+
+Engineering systems from silicon to scalable software.
