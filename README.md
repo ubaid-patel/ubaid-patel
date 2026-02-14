@@ -11,7 +11,8 @@ Designing end-to-end engineering systems that connect:
 Hardware → Communication → Backend Infrastructure → Data Processing →
 User Interface
 
-Architecture clarity. Performance. Practical deployment.
+I prioritize architectural clarity, fault tolerance, and scalable system
+design.
 
 ------------------------------------------------------------------------
 
@@ -22,42 +23,44 @@ JavaScript • TypeScript • Python • Java • C++ • SQL
 
 **Backend Engineering**\
 Node.js • Express • FastAPI\
-REST Architecture • Authentication • Modular Design • Real-Time Systems
+REST Architecture • Authentication • Modular Design • Real-Time Data
+Handling
 
 **Frontend Engineering**\
-React • Next.js • API Integration • Structured Component Design
+React • Next.js • API Integration • Structured Component Systems
 
 **Databases**\
-MongoDB • MySQL • Redis • Schema Optimization
+MongoDB • MySQL • Redis • Schema & Query Optimization
 
 **Embedded Systems**\
-Microcontroller Integration • Real-Time Logic • Communication Protocols
+Microcontroller Integration • Real-Time Control Logic • Communication
+Protocols
 
 **Machine Learning**\
-Model Integration • Inference Pipelines • Applied ML Systems
+Model Integration • Inference Pipelines • Applied Predictive Systems
 
 ------------------------------------------------------------------------
 
 ## Selected Systems
 
 **Yield**\
-Autonomous IoT system integrating sensing, backend orchestration, and
-intelligent control logic.
+Autonomous IoT agricultural system combining distributed sensing,
+backend orchestration, and prediction-assisted control logic.
 
 **GeoTrack**\
-Wireless tracking architecture combining embedded communication with
-backend processing.
+LoRa-based tracking architecture integrating embedded communication with
+structured backend processing and real-time data pipelines.
 
 **PrimeShop**\
-Structured full-stack commerce platform with secure APIs and
-database-driven operations.
+Full-stack commerce platform built around secure REST APIs, modular
+backend design, and optimized database operations.
 
 ------------------------------------------------------------------------
 
 ## Direction
 
-Distributed Systems • Scalable Backend Design • Embedded Intelligence •
-ML Deployment
+Distributed Systems • Scalable Backend Architecture • Embedded
+Intelligence • Production ML Deployment
 
 ------------------------------------------------------------------------
 
